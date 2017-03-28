@@ -6,7 +6,8 @@ timerstart = 0
 amp   = 5
 freq  = 20
 pxl_y = 100 
-offsetpxl_y = 95
+offsetpxl_y = 80
+
 coloroffset1 = 12
 coloroffset2 = 10
 coloroffset3 = 8
